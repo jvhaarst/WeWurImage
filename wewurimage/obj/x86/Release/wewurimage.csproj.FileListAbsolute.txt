@@ -1,0 +1,13 @@
+U:\code\wewurimage\wewurimage\bin\Release\wewurimage.exe.manifest
+U:\code\wewurimage\wewurimage\bin\Release\wewurimage.application
+U:\code\wewurimage\wewurimage\bin\Release\wewurimage.exe
+U:\code\wewurimage\wewurimage\bin\Release\wewurimage.pdb
+U:\code\wewurimage\wewurimage\obj\x86\Release\ResolveAssemblyReference.cache
+U:\code\wewurimage\wewurimage\obj\x86\Release\wewurimage.Form1.resources
+U:\code\wewurimage\wewurimage\obj\x86\Release\wewurimage.Properties.Resources.resources
+U:\code\wewurimage\wewurimage\obj\x86\Release\GenerateResource.read.1.tlog
+U:\code\wewurimage\wewurimage\obj\x86\Release\GenerateResource.write.1.tlog
+U:\code\wewurimage\wewurimage\obj\x86\Release\wewurimage.exe.manifest
+U:\code\wewurimage\wewurimage\obj\x86\Release\wewurimage.application
+U:\code\wewurimage\wewurimage\obj\x86\Release\wewurimage.exe
+U:\code\wewurimage\wewurimage\obj\x86\Release\wewurimage.pdb
